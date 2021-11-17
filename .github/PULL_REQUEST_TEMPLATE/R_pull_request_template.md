@@ -1,4 +1,10 @@
-*This template is for pull requests made to R packages.*
+---
+name: R package
+about: Pull request related to R packages
+title: ''
+assignees: ''
+
+---
 
 **Describe the purpose of these changes**
 A clear and concise description of what the bug or feature request this pull request addresses. Link to a current GitHub issue if available.
